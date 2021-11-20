@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SMB_MINI_PROJ_1</string>
+    <string name="HOME_LABEL_TEXT">SMB mini projekt 1</string>
+    <string name="AUTHOR">Mateusz Ambroziak s16852</string>
+    <string name="PRODUCT_LIST_ACTIVITY_BUTTON_TEXT">Lista zakupów</string>
+    <string name="SETTINGS_BUTTON_TEXT">Ustawienia</string>
+    <string name="SETTINGS_TEXT">Ustawienia</string>
+    <string name="CHECKBOX">Niebieskia czcionka</string>
+    <string name="FONT_SIZE_LABEL">Rozmiar czcionki</string>
+    <string name="_14dp">14dp</string>
+    <string name="_16dp">16dp</string>
+    <string name="_18dp">18dp</string>
+</resources>
